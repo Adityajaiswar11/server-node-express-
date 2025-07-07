@@ -15,6 +15,6 @@ This project is a simple full-stack web app using **React + Vite** for the front
 ---
 
 ## start backend server
--- npm install express, cors
--- node index.js / npm start
+- npm install express, cors
+- node index.js / npm start
 
